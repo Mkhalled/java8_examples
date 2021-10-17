@@ -1,4 +1,4 @@
-package com.km.java8_examples;
+package com.km;
 
 /**
  * Hello world!
