@@ -3,7 +3,7 @@
  *
  * Copyright (C) 2021 by Jesper de Jong (jesper@jdj-it.com).
  */
-package com.km.streamslambdas.examples;
+package com.km.streamslambdas.lamdaexamples;
 
 import com.km.streamslambdas.Category;
 import com.km.streamslambdas.ExampleData;

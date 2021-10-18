@@ -15,6 +15,7 @@ import static com.km.streamslambdas.Category.*;
 public class ExampleData {
 
     private static final List<Product> PRODUCTS = Arrays.asList(
+
             new Product(FOOD, "Oranges", new BigDecimal("1.65")),
             new Product(FOOD, "Gouda cheese", new BigDecimal("6.79")),
             new Product(UTENSILS, "Plates", new BigDecimal("12.95")),
@@ -45,6 +46,7 @@ public class ExampleData {
             new Product(OFFICE, "Highlighter", new BigDecimal("2.29")),
             new Product(FOOD, "Orange juice", new BigDecimal("3.49")),
             new Product(FOOD, "Spring water", new BigDecimal("0.99")));
+
 
     public static List<Product> getProducts() {
         return new ArrayList<>(PRODUCTS);
